@@ -32,8 +32,6 @@ make SIM=verilator all   # Verilator
   the testbench fails. A testbench that never fails proves nothing.
 
 ## Bug log
-Log every bug you find from here on. Keep it honest — interviewers ask about it.
-
 | # | Where | Symptom | Root cause | How it was caught |
 |---|---|---|---|---|
 | 1 | | | | |
